@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608113394957",
+    "project_id": "lessonauth-11f32",
+    "storage_bucket": "lessonauth-11f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608113394957:android:0c5aa4d7d8cd9732f15c44",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_39mUICTNzVxS80veyA7pOJQZ1gcwDUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
